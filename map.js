@@ -1,4 +1,4 @@
-mapboxgl.accessToken = "pk.eyJ1IjoibGV3aXNzbWFsbHdvb2QiLCJhIjoiY2pwY3hiNmc1MzF2eDN3cGhjbXA0M2g3ZSJ9.GoUGg6UcUV-fvYV2IXVoOw";
+mapboxgl.accessToken = "pk.eyJ1IjoiZXVnZW5lLWwiLCJhIjoiY2s4YW84MnJuMDQ3dzNkbTMwYWxqZnFrOSJ9.FCnrYdEry-xHjPw-Y84aJQ";
 
 // Define a map centered on Europe.
 const map = new mapboxgl.Map({
